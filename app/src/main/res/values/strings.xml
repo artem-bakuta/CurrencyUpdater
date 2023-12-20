@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="latest_date">Latest Date: %1$s</string>
+    <string name="n_a">N/A</string>
+</resources>
